@@ -13,10 +13,16 @@
   permalink: logo/
   # fa-icon: icon-graduation-cap
 
-- name: Kleur
-  description: Kleur
-  folder: pages/kleur/
-  permalink: kleur/i
+- name: Huisstijlelementen
+  description: Huisstijlelementen
+  folder: pages/Huisstijlelementen/
+  permalink: Huisstijlelementen
+  # fa-icon: icon-info
+
+- name: Toepassingen
+  description: Stijlgids voor de Huistijlgids
+  folder: pages/Toepassingen
+  permalink: /toepassingen
   # fa-icon: icon-info
 
 - name: Styleguide

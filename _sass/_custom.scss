@@ -5,6 +5,62 @@
     border: none;
 }
 
+.logo{
+  width:70%;
+}
+
+.navbar-brand .logo{
+  margin-right:-10rem;
+}
+
+.navbar{
+  margin-top:2%;
+}
+
+.navbar-nav a{
+  margin-left:2rem;
+  border-radius: 16px;
+  background-color: $mycolor-1;
+}
+
+//KLEUR EN ACHTERGROND ACTIEVE LINK
+.navbar-light .navbar-nav .active>.nav-link{ 
+  color:white;
+  background-color: $mycolor-2;
+}
+
+//On hover
+.navbar-light .navbar-nav .active>.nav-link:hover{ 
+  color:white;
+  background-color: $mycolor-4;
+}
+
+//On click
+.navbar-light .navbar-nav .active>.nav-link:active{ 
+  color:white;
+  background-color: $mycolor-3;
+}
+
+//KLEUR EN ACHTERGROND GEWONE LINK
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link{ 
+  color:white;
+  background-color: $mycolor-1;
+}
+
+//On hover
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{ 
+  color:white;
+  background-color: $mycolor-2;
+}
+
+//On click
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:active{ 
+  color:white;
+  background-color: $mycolor-4;
+}
+
+
+
 /* FOOTER
 ----------------------------------------------
 sticked to the bottom with small content pages

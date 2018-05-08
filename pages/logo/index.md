@@ -1,8 +1,8 @@
 ---
-# layout: vertical
+layout: horizontal
 permalink: logo/
 published: true
-title: Logo intro
+title: Logo gebruik
 ---
 
 # Het beste logo ooit
