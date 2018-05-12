@@ -16,13 +16,13 @@
 - name: Huisstijlelementen
   description: Huisstijlelementen
   folder: pages/Huisstijlelementen/
-  permalink: Huisstijlelementen
+  permalink: /Huisstijlelementen
   # fa-icon: icon-info
 
 - name: Toepassingen
   description: Stijlgids voor de Huistijlgids
   folder: pages/Toepassingen
-  permalink: /toepassingen
+  permalink: /Toepassingen
   # fa-icon: icon-info
 
 - name: Styleguide

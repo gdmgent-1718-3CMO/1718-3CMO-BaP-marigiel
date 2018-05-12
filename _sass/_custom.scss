@@ -1,4 +1,8 @@
-/* Navigation
+.content{
+  margin-top:2%;
+}
+
+/* NAVIGATIE
 ---------------------------------------------
 */
 .navbar a { 
@@ -13,14 +17,17 @@
   margin-right:-10rem;
 }
 
-.navbar{
-  margin-top:2%;
-}
-
 .navbar-nav a{
   margin-left:2rem;
   border-radius: 16px;
   background-color: $mycolor-1;
+}
+
+.bg-light{
+  color: #FFFFFF;
+  background-color: #FFFFFF!important;
+  box-shadow: 10px 0 10px grey;
+
 }
 
 //KLEUR EN ACHTERGROND ACTIEVE LINK
@@ -28,6 +35,8 @@
   color:white;
   background-color: $mycolor-2;
 }
+
+
 
 //On hover
 .navbar-light .navbar-nav .active>.nav-link:hover{ 
@@ -59,6 +68,27 @@
   background-color: $mycolor-4;
 }
 
+//DROPDOWN NAVIGATIE
+.dropdown-menu{
+  border:none;
+  background-color:transparent!important;
+  margin-top:-7px;
+}
+
+.navbar-nav .dropdown-menu a{
+  background-color:$mycolor-2;
+  color:#ffffff;
+  padding:8px 5px 8px 10px;
+}
+
+.navbar-nav .dropdown-menu a:hover{
+  background-color:$mycolor-1;
+}
+
+.navbar-nav .dropdown-menu a:active{
+  background-color:$mycolor-4;
+}
+
 
 
 /* FOOTER
@@ -86,6 +116,7 @@ body {
 footer {
     background-color: $mycolor-2;
     color: $color-white;
+    padding:15px 0;
     a {
         color: $color-white;
         &:hover {
@@ -105,7 +136,7 @@ footer {
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color:$mycolor-3; /* Set a background color */
+  background-color:$mycolor-1; /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   //padding: 15px; /* Some padding */
@@ -114,6 +145,10 @@ footer {
   border-radius: 20px; /* Rounded corners */
   font-size: 18px; /* Increase font size */
   &:hover {
-    background-color:$mycolor-5; 
+    background-color:$mycolor-2; 
   }
+}
+
+a{
+  underline: none;
 }
