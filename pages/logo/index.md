@@ -17,5 +17,6 @@ Hieronder is nog wat informatie te vinden over het logo, zoals het verhaal dat a
 
 ## Het verhaal
     
-Om een goed logo te kunnen maken, moet je natuurlijk goed het verhaal achter de vzw kennen, en dat in het logo proberen weergeven. 
-In dit logo werd 
+Om een goed logo te kunnen maken, moet je natuurlijk goed het verhaal achter de vzw kennen, en dat in het logo proberen weer te geven. 
+Dit logo werd opgemaakt, met het doel om heel wat verschillende logo's te maken. Dit was om de verschillende bewoners met verschillende persoonlijkheden weer te geven. Uiteindelijk werden er negen verschillende logo's gemaakt. De logo's lijken sterk op elkaar, maar verschillen in het perspectief waarin het huisje wordt weergegeven. 
+Ook het kleurgebruik in het logo staat voor de diversiteit die heerst binnen Autimismus.
