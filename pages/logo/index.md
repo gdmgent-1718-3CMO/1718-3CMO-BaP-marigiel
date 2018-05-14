@@ -5,7 +5,7 @@ published: true
 title: Het logo
 ---
 
-# Het logo
+# Het logo.
 
 Het logo van Autimismus.vzw bestaat in twee variaties, die elk in kleur, in zwart en in wit bestaan. Op deze manier kan voor elk gebruik de gepaste variatie van het logo gekozen worden. Let echter goed op bij het gebruik van het logo dat dit niet verkeerd gebeurd. Er zijn verschillende regels opgesteld om verkeerd gebruik van het logo te voorkomen. Deze zijn te vinden bij de [Do's & don'ts ]({{ '/logo/do&dont' | relative_url }}) van het logo.
 
