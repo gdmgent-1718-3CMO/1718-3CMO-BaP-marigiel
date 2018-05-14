@@ -13,8 +13,8 @@ Hieronder is nog wat informatie te vinden over het logo, zoals het verhaal dat a
 
 De verschillende versies van het logo zijn te downloaden bij ["gebruik"]({{ '/logo/gebruik' | relative_url }}).
 
-<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/logo.png" alt="Logo autimismus verticaal">
-<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/logo-hor.png" alt="Logo autimismus horizontaal">
+<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/Logo.png" alt="Logo autimismus verticaal">
+<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/Logo-hor.png" alt="Logo autimismus horizontaal">
 
 
 ## Het verhaal
