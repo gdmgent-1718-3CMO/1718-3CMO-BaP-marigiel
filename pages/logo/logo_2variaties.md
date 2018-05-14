@@ -10,7 +10,7 @@ title: Variaties
 ## Horizontale versie
 De meest gebruikte versie van het logo is de horizontale versie. Hierbij staat het beeldmerk boven de tekst. Deze is zowel beschikbaar in kleur als in het wit of zwart.
 
-<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/logo-hor.png" alt="Logo autimismus horizontaal">
+<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/Logo-hor.png" alt="Logo autimismus horizontaal">
 
 <br>&nbsp;<br>
 <h3>Variaties</h3>
