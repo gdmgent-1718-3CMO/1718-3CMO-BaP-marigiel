@@ -29,7 +29,7 @@ De minale witruimte zoals hieronder weergegeven moet steeds gerespecteerd worden
 
 Deze versie wordt enkel gebruikt wanneer er minder plaats in de breedte beschikbaar is. Het logo blijft nog steeds leesbaar, hoewel de tekst in verhouding heel wat kleiner staat om plaats te besparen.
 
-<img src="../assets/images/Logo/logo.png" alt="Logo autimismus verticaal">
+<img src="../assets/images/Logo/Logo.png" alt="Logo autimismus verticaal">
 
 <br>&nbsp;<br>
 <h3>Variaties</h3>
