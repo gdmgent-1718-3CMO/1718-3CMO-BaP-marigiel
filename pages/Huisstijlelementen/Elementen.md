@@ -37,5 +37,5 @@ Bij opvallende drukwerken zoals uitnodigingen, kan het patroon worden gebruikt o
 <h3>Als grafisch element</h3>
 Bij bijvoorbeeld kleine naamkaartjes, of banners, kan het patroon ook worden aangepast. Dan worden er bepaalde vlakken weggehaald om content zoals tekst een plaats te geven.
 <br>&nbsp;<br>
-<a href="../assets/images/toepassingen/naamkaartje.png" data-lightbox="image-3" data-title="Naamkaartje met het patroon met een uitsparing."><img src="../assets/images/toepassingen/naamkaartje.png" alt="Naamkaartje met het patroon met een uitsparing." class="w-50"></a>
-<a href="../assets/images/toepassingen/briefpapier.png" data-lightbox="image-3" data-title="briefpapier met het patroon met een uitsparing."><img src="../assets/images/toepassingen/briefpapier.png" alt="briefpapier met het patroon met een uitsparing." class="w-50"></a>
+<a href="../assets/images/toepassingen/Naamkaartje.png" data-lightbox="image-3" data-title="Naamkaartje met het patroon met een uitsparing."><img src="../assets/images/toepassingen/Naamkaartje.png" alt="Naamkaartje met het patroon met een uitsparing." class="w-50"></a>
+<a href="../assets/images/toepassingen/Briefpapier.png" data-lightbox="image-3" data-title="briefpapier met het patroon met een uitsparing."><img src="../assets/images/toepassingen/Briefpapier.png" alt="briefpapier met het patroon met een uitsparing." class="w-50"></a>
