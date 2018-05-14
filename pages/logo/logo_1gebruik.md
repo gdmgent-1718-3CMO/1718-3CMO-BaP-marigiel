@@ -11,7 +11,7 @@ title: Logo gebruik
 Normaal gezien wordt steeds gebruik gemaakt van de horizontale variant van het logo. Enkel in het geval dat het logo niet meer leesbaar zou zijn omdat de beschikbare ruimte in de breedte onvoldoende is, wordt gebruik gemaakt van het verticale logo.
 
 <h3>horizontaal</h3>
-<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/LOGO-hor.png" alt="Logo autimismus horizontaal">
+<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/Logo-hor.png" alt="Logo autimismus horizontaal">
 
 
 <h3>verticaal</h3>
