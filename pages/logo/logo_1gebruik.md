@@ -11,11 +11,11 @@ title: Logo gebruik
 Normaal gezien wordt steeds gebruik gemaakt van de horizontale variant van het logo. Enkel in het geval dat het logo niet meer leesbaar zou zijn omdat de beschikbare ruimte in de breedte onvoldoende is, wordt gebruik gemaakt van het verticale logo.
 
 <h3>horizontaal</h3>
-<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/logo-hor.png" alt="Logo autimismus horizontaal">
+<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/LOGO-hor.png" alt="Logo autimismus horizontaal">
 
 
 <h3>verticaal</h3>
-<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/logo.png" alt="Logo autimismus verticaal">
+<img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/Logo.png" alt="Logo autimismus verticaal">
 
 ## Zwart-wit drukwerk
 Bij zwart wit drukwerk is het de bedoeling dat er gebruik wordt gemaakt van een zwart logo. Nooit wordt het gekleurde logo in zwart wit afgedrukt!
