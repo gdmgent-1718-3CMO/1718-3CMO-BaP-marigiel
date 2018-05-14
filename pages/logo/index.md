@@ -11,20 +11,11 @@ Het logo van Autimismus.vzw bestaat in twee variaties, die elk in kleur, in zwar
 
 Hieronder is nog wat informatie te vinden over het logo, zoals het verhaal dat achter het logo zit. De technische specificaties van het logo zijn te vinden bij [gebruik ]({{ '/logo/gebruik' | relative_url }}). Hier kan u ook terugvinden welke variatie van het logo u in specifieke gevallen moet gebruiken.
 
-![Logo autimismus verticaal]({{ '/assets/images/logo/logo.png' | relative_url }})
-![Logo autimismus horizontaal]({{ '/assets/images/logo/logo-hor.png' | relative_url }})
+![Logo autimismus verticaal]({{ 'assets/images/logo/logo.png' | relative_url }})
+![Logo autimismus horizontaal]({{ 'assets/images/logo/logo-hor.png' | relative_url }})
 
 
 ## Het verhaal
     
-Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
-
-- Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
-- Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
-- Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-- Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.
-- Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.
-- Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;
-
-
-<mark>Primum Theophrasti, Strato, physicum se voluit;</mark> Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Eadem nunc mea adversum te oratio est. Sed vos squalidius, illorum vides quam niteat oratio. Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Quorum sine causa fieri nihil putandum est. Philosophi autem in suis lectulis plerumque moriuntur. Atqui reperies, inquit, in hoc quidem pertinacem; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?
+Om een goed logo te kunnen maken, moet je natuurlijk goed het verhaal achter de vzw kennen, en dat in het logo proberen weergeven. 
+In dit logo werd 
