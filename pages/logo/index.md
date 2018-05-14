@@ -16,7 +16,6 @@ De verschillende versies van het logo zijn te downloaden bij ["gebruik"]({{ '/lo
 <img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/Logo.png" alt="Logo autimismus verticaal">
 <img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/Logo/Logo-hor.png" alt="Logo autimismus horizontaal">
 
-
 ## Het verhaal
     
 Om een goed logo te kunnen maken, moet je natuurlijk goed het verhaal achter de vzw kennen, en dat in het logo proberen weer te geven. 
