@@ -10,7 +10,7 @@ title: stationery
 ## Naamkaartjes
 Voor de vzw werden naamkaartje ontworpen. Hier werd opnieuw gebruik gemaakt van het patroon, met een uitsparing voor de tekst.
 
-Hieronder kan je een voorbeeld van de naamkaartjes raadplegen. Op [deze link]({{ '' | relative_url }}) kan je de indesign template voor de naamkaartjes downloaden.
+Hieronder kan je een voorbeeld van de naamkaartjes raadplegen. Op [deze link]({{ 'https://www.dropbox.com/s/29dh0kzrpmtkbla/Naamkaartjes.indd?dl=0'}}) kan je de indesign template voor de naamkaartjes downloaden.
 
 <a href="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/toepassingen/Naamkaartje.png" data-lightbox="image-1" data-title="Brochure"><img src="{{site.url}}/1718-3CMO-BaP-marigiel/assets/images/toepassingen/Naamkaartje.png" alt="naamkaartje" class="w-75"></a>
 
