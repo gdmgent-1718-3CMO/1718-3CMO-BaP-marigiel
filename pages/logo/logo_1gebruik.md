@@ -11,29 +11,32 @@ title: Logo gebruik
 Normaal gezien wordt steeds gebruik gemaakt van de horizontale variant van het logo. Enkel in het geval dat het logo niet meer leesbaar zou zijn omdat de beschikbare ruimte in de breedte onvoldoende is, wordt gebruik gemaakt van het verticale logo.
 
 <h3>horizontaal</h3>
-![Logo autimismus horizontaal]({{ '/assets/images/logo/logo-hor.png' | relative_url }})
+<img src="../assets/images/Logo/logo-hor.png" alt="Logo autimismus horizontaal">
+
+
 <h3>verticaal</h3>
-![Logo autimismus verticaal]({{ '/assets/images/logo/logo.png' | relative_url }})
+<img src="../assets/images/Logo/logo.png" alt="Logo autimismus verticaal">
 
 ## Zwart-wit drukwerk
 Bij zwart wit drukwerk is het de bedoeling dat er gebruik wordt gemaakt van een zwart logo. Nooit wordt het gekleurde logo in zwart wit afgedrukt!
 
-![verkeerd gebruikt logo]({{ '/assets/images/logo/zwartwit.png' | relative_url }})
+<img src="../assets/images/Logo/zwartwit.png" alt="verkeerd gebruikt logo">
 
-![zwarte logo]({{ '/assets/images/logo/logozwart.png' | relative_url }})
+<img src="../assets/images/Logo/logozwart.png" alt="Zwarte logo">
+
 
 ## Het witte logo
 Op het logo werd ook een witte variant gemaakt. Deze kan enkel worden gebruikt wanneer het contrast met de achtergrond te klein is bij gebruik van het logo in kleur of het zwarte logo. Hieronder zie je twee voorbeelden van het foute gebruik bij te weinig contrast, een situatie waar dus voor het witte logo gekozen moest worden.
 
 <h3>Fout gebruik</h3>
-![verkeerd gebruikt logo]({{ '/assets/images/logo/logo-fout-contrast.png' | relative_url }}){: .foto}
-
+<img src="../assets/images/Logo/logo-fout-contrast.png" alt="verkeerd gebruikt logo" class="w-50">
 
 <h3>Fout gebruik</h3>
-![verkeerd gebruikt logo]({{ '/assets/images/logo/logo-fout-contrast2.png' | relative_url }}){: .foto}
+<img src="../assets/images/Logo/logo-fout-contrast2.png" alt="verkeerd gebruikt logo" class="w-50">
 
 <h3>Juist gebruik</h3>
-![juist gebruikt logo]({{ '/assets/images/logo/logo-juist-contrast.png' | relative_url }}){: .foto}
+<img src="../assets/images/Logo/logo-juist-contrast.png" alt="Juist gebruikt logo" class="w-50">
+
 
 
 

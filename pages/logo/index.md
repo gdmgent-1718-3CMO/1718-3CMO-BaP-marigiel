@@ -13,8 +13,8 @@ Hieronder is nog wat informatie te vinden over het logo, zoals het verhaal dat a
 
 De verschillende versies van het logo zijn te downloaden bij ["gebruik"]({{ '/logo/gebruik' | relative_url }}).
 
-![Logo autimismus verticaal]({{ 'assets/images/logo/logo.png' | relative_url }})
-![Logo autimismus horizontaal]({{ 'assets/images/logo/logo-hor.png' | relative_url }})
+<img src="../assets/images/Logo/logo.png" alt="Logo autimismus verticaal">
+<img src="../assets/images/Logo/logo-hor.png" alt="Logo autimismus horizontaal">
 
 
 ## Het verhaal
