@@ -2,20 +2,20 @@
 layout: horizontal
 permalink: logo/
 published: true
-title: Logo gebruik
+title: Het logo
 ---
 
-# Het beste logo ooit
+# Het logo
 
-## Consectetur adipiscing elit.
+Het logo van Autimismus.vzw bestaat in twee variaties, die elk in kleur, in zwart en in wit bestaan. Op deze manier kan voor elk gebruik de gepaste variatie van het logo gekozen worden. Let echter goed op bij het gebruik van het logo dat dit niet verkeerd gebeurd. Er zijn verschillende regels opgesteld om verkeerd gebruik van het logo te voorkomen. Deze zijn te vinden bij de [Do's & don'ts ]({{ '/logo/do&dont' | relative_url }}) van het logo.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.
+Hieronder is nog wat informatie te vinden over het logo, zoals het verhaal dat achter het logo zit. De technische specificaties van het logo zijn te vinden bij [gebruik ]({{ '/logo/gebruik' | relative_url }}). Hier kan u ook terugvinden welke variatie van het logo u in specifieke gevallen moet gebruiken.
 
-Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia; Duae sunt enim res quoque, ne tu verba solum putes. Illi enim inter se dissentiunt.
+![Logo autimismus verticaal]({{ '/assets/images/logo/logo.png' | relative_url }})
+![Logo autimismus horizontaal]({{ '/assets/images/logo/logo-hor.png' | relative_url }})
 
-<a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
 
-## Ne in odium veniam.
+## Het verhaal
     
 Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
 

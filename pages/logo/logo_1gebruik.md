@@ -1,8 +1,8 @@
 ---
 layout: horizontal
-permalink: logo/logo_gebruik
+permalink: logo/gebruik
 published: true
-title: Logo variaties
+title: Logo gebruik
 ---
 
 # Een logo gebruik je juist
