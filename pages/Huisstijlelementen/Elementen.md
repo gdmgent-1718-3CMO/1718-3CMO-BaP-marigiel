@@ -7,24 +7,29 @@ title: Huisstijlelementen
 
 # De huisstijlelementen
 
-## Consectetur adipiscing elit.
+Er zijn verschillende elementen aan de huisstijl die vaak terugkomen. Zo is er een standaard lettertype dat wordt gebruikt en is er een vast kleurenpalet. 
+Het typische patroon dat een herkenbare huisstijl aan autimismus koppelt, wordt hieronder verder uitgelegd.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.
-
-Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia; Duae sunt enim res quoque, ne tu verba solum putes. Illi enim inter se dissentiunt.
-
-<a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
-
-## Ne in odium veniam.
+## Het autimismus-patroon
     
-Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
+Opnieuw wordt er met het patroon, dat uit het logo afstamt, een link gelegd naar de verschillende bewoners die op een mooie en harmonieuze manier samenleven.
+Zoals u al kon zien vanaf de eerste pagina van deze website, staat het patroon hier aan de linkerkant. Het patroon kan op verschillende manieren worden gebruikt, deze worden hieronder opgesomd.
 
-- Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
-- Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
-- Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-- Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.
-- Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.
-- Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;
+<h3>Als steunvlak</h3>
+Een voorbeeld van het patroon als steunvlak, is de brochure.
+Wanneer er tekst wordt gezet op het patroon, dient dit altijd in <b><i>bold</i></b> te gebeuren, en moet deze in het wit staan.
+<br>&nbsp;<br>
+<a href="../assets/images/toepassingen/Brochure1.png" data-lightbox="image-1" data-title="Brochure met het patroon als steunvlak"><img src="../assets/images/toepassingen/Brochure1.png" alt="Brochure met het patroon als steunvlak" class="w-50"></a>
+
+<br>&nbsp;<br>
+<h3>Als accent</h3>
+Wanneer een drukwerk of website wat kleur mist, is het altijd mogelijk om het patroon in de kantlijn te zetten. Deze website is hier het perfecte voorbeeld van.
+<br>&nbsp;<br>
+
+<h3>Als blikvanger</h3>
+Bij opvallende drukwerken zoals uitnodigingen, kan het patroon worden gebruikt om in het oog te springen bij de kijker. Hieronder ziet u enkele voorbeelden
+<br>&nbsp;<br>
+<a href="../assets/images/toepassingen/Brochure1.png" data-lightbox="image-1" data-title="Brochure met het patroon als steunvlak"><img src="../assets/images/toepassingen/Brochure1.png" alt="Brochure met het patroon als steunvlak" class="w-50"></a>
 
 
-<mark>Primum Theophrasti, Strato, physicum se voluit;</mark> Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Eadem nunc mea adversum te oratio est. Sed vos squalidius, illorum vides quam niteat oratio. Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Quorum sine causa fieri nihil putandum est. Philosophi autem in suis lectulis plerumque moriuntur. Atqui reperies, inquit, in hoc quidem pertinacem; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?
+

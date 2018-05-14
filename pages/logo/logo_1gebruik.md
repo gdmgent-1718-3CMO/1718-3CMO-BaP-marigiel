@@ -5,36 +5,54 @@ published: true
 title: Logo gebruik
 ---
 
-# Een logo gebruik je juist
+# Gebruik
 
-## Consectetur adipiscing elit.
+## Horizontale of verticale variant
+Normaal gezien wordt steeds gebruik gemaakt van de horizontale variant van het logo. Enkel in het geval dat het logo niet meer leesbaar zou zijn omdat de beschikbare ruimte in de breedte onvoldoende is, wordt gebruik gemaakt van het verticale logo.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.
+<h3>horizontaal</h3>
+![Logo autimismus horizontaal]({{ '/assets/images/logo/logo-hor.png' | relative_url }})
+<h3>verticaal</h3>
+![Logo autimismus verticaal]({{ '/assets/images/logo/logo.png' | relative_url }})
 
-Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia; Duae sunt enim res quoque, ne tu verba solum putes. Illi enim inter se dissentiunt. </p>
+## Zwart-wit drukwerk
+Bij zwart wit drukwerk is het de bedoeling dat er gebruik wordt gemaakt van een zwart logo. Nooit wordt het gekleurde logo in zwart wit afgedrukt!
 
-<a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
+![verkeerd gebruikt logo]({{ '/assets/images/logo/zwartwit.png' | relative_url }})
 
-## Ne in odium veniam.
+![zwarte logo]({{ '/assets/images/logo/logozwart.png' | relative_url }})
 
-Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
+## Het witte logo
+Op het logo werd ook een witte variant gemaakt. Deze kan enkel worden gebruikt wanneer het contrast met de achtergrond te klein is bij gebruik van het logo in kleur of het zwarte logo. Hieronder zie je twee voorbeelden van het foute gebruik bij te weinig contrast, een situatie waar dus voor het witte logo gekozen moest worden.
 
-- Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
-- Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
-- Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-- Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.
-- Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.
-- Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;
+<h3>Fout gebruik</h3>
+![verkeerd gebruikt logo]({{ '/assets/images/logo/logo-fout-contrast.png' | relative_url }}){: .foto}
 
-<mark>Primum Theophrasti, Strato, physicum se voluit;</mark> Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Eadem nunc mea adversum te oratio est. Sed vos squalidius, illorum vides quam niteat oratio. Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Quorum sine causa fieri nihil putandum est. Philosophi autem in suis lectulis plerumque moriuntur. Atqui reperies, inquit, in hoc quidem pertinacem; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?
 
-## Pisone in eo gymnasio.
+<h3>Fout gebruik</h3>
+![verkeerd gebruikt logo]({{ '/assets/images/logo/logo-fout-contrast2.png' | relative_url }}){: .foto}
 
-Quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
+<h3>Juist gebruik</h3>
+![juist gebruikt logo]({{ '/assets/images/logo/logo-juist-contrast.png' | relative_url }}){: .foto}
 
-- Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
-- Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
-- Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-- Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.
-- Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.
-- Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;
+
+
+# Downloaden
+Alle verschillende logo's kunnen op [deze link]({{ '/logo/gebruik' | relative_url }}) worden gedownload. Schrik niet! je zal er een heleboel ontvangen!
+Hier een kleine opsomming:
+
+Alle logo's komen in 3 verschillende bestandstype's:
+- rgb: met extentie .png
+- cmyk: met extentie .tif
+- vectorieel: met extensie .eps
+
+
+De logo's komen ook in verschillende varianten:
+- logo's met baseline
+    - de horizontale variant 
+    - de verticale variant
+- logo's zonder baseline
+    - de horizontale variant 
+    - de verticale variant
+
+Deze logo's zal je telkens in kleur, zwart en wit terugvinden.
