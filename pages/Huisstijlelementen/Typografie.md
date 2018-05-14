@@ -7,7 +7,7 @@ title: typografie
 
 # Typografie
 
-Onderstaande lettertype is vrij te downloaden op [Google Fonts]({{ 'https://fonts.google.com/specimen/Nunito'}})..
+Onderstaande lettertype is vrij te downloaden op [Google Fonts]({{ 'https://fonts.google.com/specimen/Nunito'}}).
 
 ## Nunito
 
