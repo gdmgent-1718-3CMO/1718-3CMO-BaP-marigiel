@@ -19,6 +19,33 @@
   width:400px;
 }
 
+.kleuren{
+  color:white;
+  font-size:20px;
+  font-weight:800;
+  p{
+    font-size:16px;
+    font-weight: $font-weight-light;
+  }
+}
+
+.donkerpaars{
+  background-color:$mycolor-1;
+}
+
+.lichtpaars{
+  background-color:$mycolor-2;
+}
+.rood{
+  background-color:$mycolor-3;
+}
+.oranje{
+  background-color:$mycolor-4;
+}
+.blauw{
+  background-color:$mycolor-5;
+}
+
 /* NAVIGATIE
 ---------------------------------------------
 */
