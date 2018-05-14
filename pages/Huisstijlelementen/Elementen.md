@@ -29,7 +29,13 @@ Wanneer een drukwerk of website wat kleur mist, is het altijd mogelijk om het pa
 <h3>Als blikvanger</h3>
 Bij opvallende drukwerken zoals uitnodigingen, kan het patroon worden gebruikt om in het oog te springen bij de kijker. Hieronder ziet u enkele voorbeelden
 <br>&nbsp;<br>
-<a href="../assets/images/toepassingen/Brochure1.png" data-lightbox="image-1" data-title="Brochure met het patroon als steunvlak"><img src="../assets/images/toepassingen/Brochure1.png" alt="Brochure met het patroon als steunvlak" class="w-50"></a>
+<a href="../assets/images/toepassingen/uitnodiging1-1.png" data-lightbox="image-2" data-title="Uitnodiging met het patroon als blikvanger"><img src="../assets/images/toepassingen/uitnodiging1-1.png" alt="Uitnodiging met het patroon als blikvanger" class="w-50"></a>
+<a href="../assets/images/toepassingen/uitnodiging2-1.png" data-lightbox="image-2" data-title="Uitnodiging met het patroon als blikvanger"><img src="../assets/images/toepassingen/uitnodiging2-1.png" alt="Uitnodiging met het patroon als blikvanger" class="w-50"></a>
 
+<br>&nbsp;<br>
 
-
+<h3>Als grafisch element</h3>
+Bij bijvoorbeeld kleine naamkaartjes, of banners, kan het patroon ook worden aangepast. Dan worden er bepaalde vlakken weggehaald om content zoals tekst een plaats te geven.
+<br>&nbsp;<br>
+<a href="../assets/images/toepassingen/naamkaartje.png" data-lightbox="image-3" data-title="Naamkaartje met het patroon met een uitsparing."><img src="../assets/images/toepassingen/naamkaartje.png" alt="Naamkaartje met het patroon met een uitsparing." class="w-50"></a>
+<a href="../assets/images/toepassingen/briefpapier.png" data-lightbox="image-3" data-title="briefpapier met het patroon met een uitsparing."><img src="../assets/images/toepassingen/briefpapier.png" alt="briefpapier met het patroon met een uitsparing." class="w-50"></a>
