@@ -5,7 +5,7 @@ published: true
 title: Do's and don'ts
 ---
 
-# Het beste logo ooit
+# De do's & don'ts
 
 ## Consectetur adipiscing elit.
 

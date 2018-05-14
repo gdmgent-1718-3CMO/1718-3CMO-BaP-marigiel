@@ -5,7 +5,7 @@ published: true
 title: Huisstijlelementen
 ---
 
-# Het beste logo ooit
+# De huisstijlelementen
 
 ## Consectetur adipiscing elit.
 

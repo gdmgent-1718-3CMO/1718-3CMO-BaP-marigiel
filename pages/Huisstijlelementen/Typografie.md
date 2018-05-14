@@ -5,7 +5,7 @@ published: true
 title: typografie
 ---
 
-# Het beste logo ooit
+# De beste typografie ooit
 
 ## Consectetur adipiscing elit.
 

@@ -1,12 +1,27 @@
 .content{
-  margin-top:2%;
+  margin-top:4%;
+  margin-bottom:17%;
+  margin-left:16%;
+}
+
+
+.patroon{
+  width:100%;
+  background-image: url(../../images/patroon-vert.png);
+  margin-left:-14%;
+  height:90%;
+  position: absolute;
+  background-repeat: no-repeat, repeat;
+  z-index:0;
 }
 
 /* NAVIGATIE
 ---------------------------------------------
 */
+
 .navbar a { 
     border: none;
+    margin-left:14%;
 }
 
 .logo{
@@ -27,7 +42,7 @@
   color: #FFFFFF;
   background-color: #FFFFFF!important;
   box-shadow: 10px 0 10px grey;
-
+  z-index:99;
 }
 
 //KLEUR EN ACHTERGROND ACTIEVE LINK
@@ -116,13 +131,18 @@ body {
 footer {
     background-color: $mycolor-2;
     color: $color-white;
-    padding:15px 0;
+    padding-top:2%;
+    margin-bottom:-20px;
     a {
         color: $color-white;
         &:hover {
             
         }
     }
+}
+
+.footer{
+  padding-left:18%;
 }
 
 /* BACK TO TOP
@@ -145,10 +165,17 @@ footer {
   border-radius: 20px; /* Rounded corners */
   font-size: 18px; /* Increase font size */
   &:hover {
-    background-color:$mycolor-2; 
+    background-color:$mycolor-3; 
   }
 }
-
-a{
-  underline: none;
+.logo-footer{
+  height:100px;
+  border-bottom:0;
+  &:hover{
+    border-bottom:0;
+  }
+  &:active{
+    background-color:transparent;
+    color:transparent;
+}
 }
