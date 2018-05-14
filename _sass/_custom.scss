@@ -7,11 +7,11 @@
 
 .patroon{
   width:100%;
-  background-image: url(../../images/patroon-vert.png);
+  background-image: url("../images/patroon-vert.png");
   margin-left:-14%;
-  height:90%;
+  height:91%;
   position: absolute;
-  background-repeat: no-repeat, repeat;
+  background-repeat: repeat;
   z-index:0;
 }
 
