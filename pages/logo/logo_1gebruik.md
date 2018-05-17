@@ -41,7 +41,7 @@ Op het logo werd ook een witte variant gemaakt. Deze kan enkel worden gebruikt w
 
 
 # Downloaden
-Alle verschillende logo's kunnen op [deze link]({{ 'https://www.dropbox.com/s/css3lajibb3v9ae/Logo%27s.zip?dl=0'}}) worden gedownload. Schrik niet! je zal er een heleboel ontvangen!
+Alle verschillende logo's kunnen op [deze link]({{ 'https://www.dropbox.com/s/foykgwphhfhmpry/Logo%27s.zip?dl=0'}}) worden gedownload. Schrik niet! je zal er een heleboel ontvangen!
 Hier een kleine opsomming:
 
 Alle logo's komen in 3 verschillende bestandstype's:
